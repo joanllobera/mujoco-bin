@@ -1,0 +1,17 @@
+{
+  "name": "bin.mujoco",
+  "displayName": "MuJoCo binaries",
+  "version": "3.3.0",
+  "description": "MuJoCo binaries to simplify setting up a unity project with MuJoCo",
+  "dependencies": {},
+  "author": {
+    "name" : "Joan Llobera",
+    "email" : "joan.llobera@artanim.ch",
+    "url" : "https://artanim.ch/"
+  },
+  "changelogUrl": "",
+  "documentationUrl": "",
+  "license": "Apache-2.0",
+  "licensesUrl": "",
+  "hideInEditor": false
+}
