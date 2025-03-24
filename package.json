@@ -1,6 +1,6 @@
 {
   "name": "bin.mujoco",
-  "displayName": "MuJoCo binaries",
+  "displayName": "MuJoCo Binaries",
   "version": "3.3.0",
   "description": "MuJoCo binaries to simplify setting up a unity project with MuJoCo",
   "dependencies": {
