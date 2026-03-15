@@ -8,7 +8,7 @@ An important feature is that android support is also included. To compile the mu
 
 To integrate this package in your project, just add a link to in the manifest file. Make sure you point to the same MuJoCo plugin that the binaries. Current mujoco release being used is **3.3.0**
 
-To add it, the file  `manifest.json`in the packages folder should have two lines that look like this: 
+To add it alongside MuJoCo, the file  `manifest.json` in the packages folder should have two lines that look like this:
 
 ```
 "org.mujoco": "https://github.com/deepmind/mujoco.git?path=unity#3.3.0",
