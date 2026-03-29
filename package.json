@@ -1,9 +1,11 @@
 {
   "name": "bin.mujoco",
-  "displayName": "MuJoCo binaries",
+  "displayName": "MuJoCo Binaries",
   "version": "3.3.0",
   "description": "MuJoCo binaries to simplify setting up a unity project with MuJoCo",
-  "dependencies": {},
+  "dependencies": {
+	"org.mujoco": "3.3.0"
+  },
   "author": {
     "name" : "Joan Llobera",
     "email" : "joan.llobera@artanim.ch",
